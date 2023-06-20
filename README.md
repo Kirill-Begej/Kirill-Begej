@@ -7,7 +7,7 @@
   <a href="mailto:kirill.begey@mail.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail." />
   </a>
-  <a href="https://t.me/Kirill1389/" target="_blank">
+  <a href="https://t.me/Kirill1389/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram." />
   </a>
 </div>
