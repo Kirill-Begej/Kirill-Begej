@@ -2,7 +2,16 @@
     <h1>Привет всем, Я Кирилл <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
     <h3>Я начинающий фронтенд разработчик</h3>
 </div>
-  
+
+<div id="socials" align="center">
+  <a href="mailto:kirill.begey@mail.ru">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail." />
+  </a>
+  <a href="https://t.me/@Kirill1389/">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram." />
+  </a>
+</div>
+
 ### 👨‍💻 Обо мне:
 - 💡 Мне нравится изучать новые технологии во фронтенд разработке;
 - 🎓 В настоящее время являюсь студентом Я.Практикума по профессии Фронтенд разработчик +;
@@ -11,6 +20,7 @@
 - ✉️ Вы всегда можете написать мне [email](mailto:kirill.begey@mail.ru);
 - 📄 Пожалуста, взгляните на мое [резюме](https://drive.google.com/file/d/1_oMp0HXVbmwCvnfoVY6IWFZE0v6N-AIj/view?usp=sharing) для более подробной информации обо мне.
 ___
+
 
 ### 🕶️ Мой стек:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>&nbsp;
